@@ -17,6 +17,7 @@ Base theme without action bar:
 <style name="Base.Theme.ShortEdges" parent="Theme.Material3.Light.NoActionBar">
   <item name="android:statusBarColor">@android:color/holo_purple</item>
   <item name="android:navigationBarColor">@android:color/holo_red_dark</item>
+  <item name="android:navigationBarColor">@android:color/holo_red_dark</item>
 </style>
 ```
 
