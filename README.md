@@ -1,6 +1,6 @@
 # Simple Android edge-to-edge app 
 
-## Default layout
+## Default layouts
 
 Base theme without action bar:
 
